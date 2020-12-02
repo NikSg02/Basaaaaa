@@ -1,0 +1,13 @@
+C:\Users\nikse\source\repos\BasaDan\BasaDan\obj\Debug\BasaDan.csprojAssemblyReference.cache
+C:\Users\nikse\source\repos\BasaDan\BasaDan\obj\Debug\BasaDan.Form1.resources
+C:\Users\nikse\source\repos\BasaDan\BasaDan\obj\Debug\BasaDan.Properties.Resources.resources
+C:\Users\nikse\source\repos\BasaDan\BasaDan\obj\Debug\BasaDan.csproj.GenerateResource.cache
+C:\Users\nikse\source\repos\BasaDan\BasaDan\obj\Debug\BasaDan.csproj.CoreCompileInputs.cache
+C:\Users\nikse\source\repos\BasaDan\BasaDan\bin\Debug\Database1.mdf
+C:\Users\nikse\source\repos\BasaDan\BasaDan\bin\Debug\Database1_log.ldf
+C:\Users\nikse\source\repos\BasaDan\BasaDan\bin\Debug\BasaDan.exe.config
+C:\Users\nikse\source\repos\BasaDan\BasaDan\bin\Debug\BasaDan.exe
+C:\Users\nikse\source\repos\BasaDan\BasaDan\bin\Debug\BasaDan.pdb
+C:\Users\nikse\source\repos\BasaDan\BasaDan\obj\Debug\BasaDan.exe
+C:\Users\nikse\source\repos\BasaDan\BasaDan\obj\Debug\BasaDan.pdb
+C:\Users\nikse\source\repos\BasaDan\BasaDan\obj\Debug\BasaDan.Form2.resources
